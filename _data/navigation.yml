@@ -14,11 +14,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
+- name: Book Now
   link: /
   new_window: true
   highlight: true
